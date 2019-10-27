@@ -1,0 +1,5 @@
+com\nit\user\constants\AppConstants.class
+com\nit\user\model\User.class
+com\nit\user\config\AppConfig.class
+com\nit\user\controller\UserController.class
+com\nit\user\init\AppInitializer.class
